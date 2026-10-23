@@ -1,0 +1,6 @@
+{
+  "name": "Riverside Plumbing",
+  "description": "Licensed master plumbing services, 24/7 emergency repairs, drain cleaning, water heater installations, and repiping in Riverside.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
